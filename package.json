@@ -1,0 +1,20 @@
+{
+  "name": "primeiro-projetinho-js",
+  "version": "1.0.0",
+  "description": "[HC] Módulo 05 - JavaScript II || 08 - Projeto",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crhisangela/primeiro-projetinho-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crhisangela/primeiro-projetinho-js/issues"
+  },
+  "homepage": "https://github.com/crhisangela/primeiro-projetinho-js#readme"
+}
